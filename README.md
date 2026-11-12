@@ -19,6 +19,8 @@ Student Name: Rahim
 Total Marks: 245
 Average: 81.67
 Grade: A+
+
+
 Problem 2: Simple Shopping Cart
 Write a Python program that:
 1. Takes the customer's name as input.
